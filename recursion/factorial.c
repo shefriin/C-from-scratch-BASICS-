@@ -12,4 +12,3 @@ void main()
     scanf("%d",&n);
     printf(" Answer is %d", fact (n));
 }
-
